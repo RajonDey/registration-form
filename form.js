@@ -42,10 +42,7 @@ function resetForm() {
     var mobile = document.registrationForm.mobile.value = "";;
     var country = document.registrationForm.country.value = "";
     
-    // var gender = document.registrationForm.gender.value = "";
-
-    var male = document.getElementById("genderm").value = "";
-    var female = document.getElementById("genderf").value = "";
+    var gender = document.registrationForm.gender.value = "";
 }
 
 
